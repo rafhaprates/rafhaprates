@@ -10,7 +10,7 @@
 </a>
 </h1><br>
 
-Me chamo Rafhael Prates, sou formado em Analise e Desenvovlimento de sistemas e Atualmente estou cursando Pós em GP
+Me chamo Rafhael Prates, sou formado em Analise e Desenvolvimento de sistemas e Atualmente estou cursando Pós em GP
 - Analista Desenvolvedor ADVPL há cerca de 4 anos;
 - Participei de Projetos como Implantador de Sistemas;
 - Criei customizações para grandes empresas;
