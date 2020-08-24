@@ -14,7 +14,7 @@ Me chamo Rafhael Prates, sou formado em Analise e Desenvovlimento de sistemas e 
 - Analista Desenvolvedor ADVPL há cerca de 4 anos;
 - Participei de Projetos como Implantador de Sistemas;
 - Criei customizações para grandes empresas;
-- Criei dezenas de relatorios que são utilziados até hoje;
+- Criei dezenas de relatorios que são utilizados até hoje;
 - Entusiasta das melhores tecnologias de desenvolvimento web & mobile.
 - Atualmente focado nos estudos (Node.js, ReactJS e React Native).
 
