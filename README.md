@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/rafhaelprates/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:rafhaprates@hotmail.com">
+<a href="mailto:rafhael@rafhaprates.dev">
   <img src="https://img.shields.io/badge/gmail-%23E60012.svg?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://api.whatsapp.com/send?phone=5518988136751">
