@@ -12,6 +12,7 @@
 
 Me chamo Rafhael Prates, sou formado em Analise e Desenvolvimento de sistemas e Atualmente estou cursando Pós em GP
 - Analista Desenvolvedor ADVPL há cerca de 4 anos;
+- Desenvolvedor Delphi a 3 anos;
 - Participei de Projetos como Implantador de Sistemas;
 - Criei customizações para grandes empresas;
 - Criei dezenas de relatorios que são utilizados até hoje;
@@ -25,6 +26,7 @@ Me chamo Rafhael Prates, sou formado em Analise e Desenvolvimento de sistemas e 
   
 <b>Trilha de Conhecimento</b><br><br>
 <img src="https://img.shields.io/static/v1?label=TOTVS&message=Desenvolvedor%20ADVPL&color=blue&style=flat-square"> :heavy_check_mark: <br> 
+<img src="https://img.shields.io/static/v1?label=DELPHI&message=Desenvolvedor%20ADVPL&color=blue&style=flat-square"> :heavy_check_mark: <br> 
 <img src="https://img.shields.io/static/v1?label=HTML&message=Estudando&color=blue&style=flat-square"> 🚧 <br> 
 <img src="https://img.shields.io/static/v1?label=CSS&message=Estudando&color=blue&style=flat-square"> 🚧 <br>
 <img src="https://img.shields.io/static/v1?label=Genexus&message=Estudando&color=blue&style=flat-square"> 🚧 <br>
