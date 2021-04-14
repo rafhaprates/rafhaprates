@@ -17,7 +17,7 @@ Me chamo Rafhael Prates, sou formado em Analise e Desenvolvimento de sistemas e 
 - Criei customizações para grandes empresas;
 - Criei dezenas de relatorios que são utilizados até hoje;
 - Entusiasta das melhores tecnologias de desenvolvimento web & mobile.
-- Atualmente focado nos estudos (Node.js, ReactJS e React Native).
+- Atualmente focado nos estudos para a automação de testes QA ( em Ruby ) 
 
 
 <b> O que busco?</b><br>
