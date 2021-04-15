@@ -26,8 +26,8 @@ Me chamo Rafhael Prates, sou formado em Analise e Desenvolvimento de sistemas e 
   
 <b>Trilha de Conhecimento</b><br><br>
 <img src="https://img.shields.io/static/v1?label=TOTVS&message=Desenvolvedor%20ADVPL&color=blue&style=flat-square"> :heavy_check_mark: <br> 
-<img src="https://img.shields.io/static/v1?label=DELPHI&message=Desenvolvedor%20Delphi&color=blue&style=flat-square"> 🚧 <br> 
-<img src="https://img.shields.io/static/v1?label=HTML&message=Estudando&color=blue&style=flat-square"> 🚧 <br> 
+<img src="https://img.shields.io/static/v1?label=DELPHI&message=Desenvolvedor%20Delphi&color=blue&style=flat-square"> :heavy_check_mark:  <br> 
+<img src="https://img.shields.io/static/v1?label=HTML&message=Dev&color=blue&style=flat-square"> :heavy_check_mark:  <br> 
 <img src="https://img.shields.io/static/v1?label=CSS&message=Estudando&color=blue&style=flat-square"> 🚧 <br>
 <img src="https://img.shields.io/static/v1?label=Genexus&message=Estudando&color=blue&style=flat-square"> 🚧 <br>
 <img src="https://img.shields.io/static/v1?label=PHP&message=Dev_BackEnd&color=blue&style=flat-square">:heavy_check_mark:<br>
@@ -35,6 +35,4 @@ Me chamo Rafhael Prates, sou formado em Analise e Desenvolvimento de sistemas e 
 <img src="https://img.shields.io/static/v1?label=React.js&message=Estudando&color=blue&style=flat-square"> 🚧 <br>
 <img src="https://img.shields.io/static/v1?label=React%20Native&message=Estudando&color=blue&style=flat-square"> 🚧 <br>
 <img src="https://img.shields.io/static/v1?label=TypeScript&message=Estudando&color=blue&style=flat-square"> 🚧 <br>
-<img src="https://img.shields.io/static/v1?label=Angular&message=Estudando&color=blue&style=flat-square"> 🚧 <br>
-<img src="https://img.shields.io/static/v1?label=AngularJS&message=Estudando&color=blue&style=flat-square"> 🚧 <br>
-<img src="https://img.shields.io/static/v1?label=Electron&message=Estudando&color=blue&style=flat-square"> 🚧 <br>
+
